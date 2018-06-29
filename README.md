@@ -10,3 +10,4 @@ Canary Release With Helm Deploy Style To K8S
 6. if failure
   rollback
 7. done!
+test p1
