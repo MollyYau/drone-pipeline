@@ -1,0 +1,7 @@
+pipeline:
+  docker:
+    image: plugins/docker
+    repo: registry.viphrm.com/hello:v0.1.0
+    registry: registry.viphrm.com
+    username: admin
+    password: 975AeKAtKr8oz8uY
